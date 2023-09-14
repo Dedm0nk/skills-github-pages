@@ -1,5 +1,5 @@
 ---
-title: "Dedm0nks abode"
+title: "Dedm0nk's abode"
 date: 2023-09-15
 ---
 # My first site hosted from Github
